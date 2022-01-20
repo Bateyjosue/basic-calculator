@@ -1,6 +1,7 @@
 # basic-calculator
 Is C program which make calculation of two number using basic Math operations +, -, *, /, %
-Demo:
+<hr>
+<br>Demo:
 Choose A = Addition      S= Substration  D = Division    M= Multiplication!
 ********************************************************************************
 Which operation Do you want to perform
